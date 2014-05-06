@@ -1,7 +1,7 @@
 package org.youngguang.app.service;
 
 /**
- * Description
+ *  基础服务
  *
  * @author youngguang of654
  * @date 2014/5/6 0006
